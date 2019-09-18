@@ -1,6 +1,6 @@
 pkg_name=YOUR_PACKAGE_NAME
 pkg_version=0.1.0
-pkg_origin=YOUR_ORIGIN_NAME
+pkg_origin=vadirajbk_1
 pkg_deps=(core/python2)
 pkg_build_deps=(core/gcc)
 
