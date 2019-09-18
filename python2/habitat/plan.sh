@@ -1,4 +1,4 @@
-pkg_name=YOUR_PACKAGE_NAME
+pkg_name=python_package
 pkg_version=0.1.0
 pkg_origin=vadirajbk_1
 pkg_deps=(core/python2)
