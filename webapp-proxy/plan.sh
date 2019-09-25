@@ -1,4 +1,4 @@
-pkg_origin=origin
+pkg_origin=vadirajbk_1
 pkg_name=webapp-proxy
 pkg_deps=(core/nginx)
 pkg_version="0.1.0"
